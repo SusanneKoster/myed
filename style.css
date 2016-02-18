@@ -90,7 +90,9 @@ a.articletitle{
 	margin-top:5px;
         font-family: "Lato", sans-serif;
         font-style: italic;
+        color: ##363636;
         text-align: center;
+        letter-spacing: 5px;
 }
 a{
 	text-decoration: none;
