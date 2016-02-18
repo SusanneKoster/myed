@@ -92,7 +92,7 @@ a.articletitle{
         font-style: italic;
         color: ##363636;
         text-align: center;
-        letter-spacing: 5px;
+        margin-bottom:5px;
 }
 a{
 	text-decoration: none;
