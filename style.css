@@ -1,0 +1,12 @@
+.content{
+	text-align: center;
+}
+.navbar{
+	 font-family: 'Source Sans Pro', sans-serif;;
+	text-transform: uppercase;
+}
+#sign{
+	width: 50%;
+	margin-left: 25%;
+	
+}
