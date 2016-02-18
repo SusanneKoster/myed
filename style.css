@@ -80,10 +80,11 @@ a.articletitle{
 	line-height: 180%;
 	text-align: justify;
 	font-family: 'Optima', sans-serif; /* title of the articles */
-}/*
-#small{
+}
+/*for the small letters */
+.textarticle{
 	font-family: 'Optima', sans-serif;
-}*/
+}
 a{
 	text-decoration: none;
 	color: black;
