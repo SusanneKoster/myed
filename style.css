@@ -74,7 +74,8 @@ margin-top: 20px;
 a.articletitle{
 	text-decoration: none;
 	font-size:20px;
-	color: black;	
+	color: black;
+	font-family: 'Noto+Serif:400,700', sans-serif;
 }
 .article{
 	line-height: 180%;
