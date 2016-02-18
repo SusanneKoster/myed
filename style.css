@@ -79,7 +79,7 @@ a.articletitle{
 .article{
 	line-height: 180%;
 	text-align: justify;
-	font-family: 'Optima', sans-serif; /* title of the articles */
+	font-family: 'Noto+Serif:400,700', sans-serif; /* title of the articles */
 }
 /*for the small letters */
 .textarticle{
