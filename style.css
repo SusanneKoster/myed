@@ -78,7 +78,7 @@ a.articletitle{
 	font-size:20px;
 	color: black;
 	margin-bottom:5px;
-	font-family: 'Noto+Serif', sans-serif; /* title of the articles */
+	font-family: "Noto Serif", sans-serif; /* title of the articles */
 }
 .article{
 	line-height: 180%;
@@ -88,7 +88,7 @@ a.articletitle{
 /*for the small letters */
 .textarticle{
 	margin-top:5px;
-        font-family: 'Noto Serif', sans-serif;
+        font-family: "Noto Serif", sans-serif;
         text-align: center;
 }
 a{
