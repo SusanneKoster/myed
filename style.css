@@ -1,24 +1,42 @@
+body{
+	background-color: white;
+}
 .content{
 	text-align: center;
+	margin-top: 100px;
 }
 .navbar{
 	 font-family: 'Source Sans Pro', sans-serif;;
 	text-transform: uppercase;
+	background-color: white;
+}
+.navbar-wrapper{
+		background-color:white;
 }
 .nav {
 	width:100%;
 	text-align: center;
+
+
 }
 
 .nav li{
-	width: 12%;
-
+	margin-right: 10px;
+		color:black;
+}
+.nav li active{
+	background-color: red;
+}
+.nav li a:hover{
+	background-color: gray;
+}
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 #sign{
-	width: 25%;
-	margin-left: 37%;
+	width: 500px;
 	
 }
-footer{
-	margin-bottom: 0;
-}
+
