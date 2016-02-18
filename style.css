@@ -62,7 +62,7 @@ a.boxi{
 	color:black;
 }
 h2{
-		font-family: 'Optima', sans-serif;
+		
 }
 h4{
 	text-decoration: bold;
@@ -79,7 +79,11 @@ a.articletitle{
 .article{
 	line-height: 180%;
 	text-align: justify;
-}
+	font-family: 'Optima', sans-serif; /* title of the articles */
+}/*
+#small{
+	font-family: 'Optima', sans-serif;
+}*/
 a{
 	text-decoration: none;
 	color: black;
