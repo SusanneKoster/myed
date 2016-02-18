@@ -75,15 +75,16 @@ a.articletitle{
 	text-decoration: none;
 	font-size:20px;
 	color: black;
-	font-family: 'Noto+Serif:400,700', sans-serif;
+	font-family: 'Noto+Serif:400,700', sans-serif; /* title of the articles */
 }
 .article{
 	line-height: 180%;
 	text-align: justify;
-	font-family: 'Noto+Serif:400,700', sans-serif; /* title of the articles */
+	font-family: 'Noto+Serif:400,700', sans-serif;
 }
 /*for the small letters */
 .textarticle{
+	margin-top:5px;
 	font-family: 'Optima', sans-serif;
 }
 a{
