@@ -85,7 +85,7 @@ a.articletitle{
 /*for the small letters */
 .textarticle{
 	margin-top:5px;
-	font-family: 'Optima', sans-serif;
+        font-family: 'Lato', sans-serif;
 }
 a{
 	text-decoration: none;
